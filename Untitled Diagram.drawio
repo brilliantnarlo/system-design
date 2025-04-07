@@ -436,13 +436,19 @@
         <mxCell id="SwqiQ7LRzpZv_2BvtTYR-9" value="Docker Host (Digital Ocean)" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="530" y="490" width="1230" height="940" as="geometry" />
         </mxCell>
+        <mxCell id="spW_KfxsJzQih1EyFW_R-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00188D;shape=mxgraph.azure.server_rack;" vertex="1" parent="SwqiQ7LRzpZv_2BvtTYR-9">
+          <mxGeometry x="714" y="450" width="70" height="84" as="geometry" />
+        </mxCell>
         <mxCell id="spW_KfxsJzQih1EyFW_R-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00188D;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
-          <mxGeometry x="875" y="800" width="70" height="84" as="geometry" />
+          <mxGeometry x="940" y="780" width="70" height="84" as="geometry" />
         </mxCell>
         <mxCell id="spW_KfxsJzQih1EyFW_R-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000066;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
           <mxGeometry x="610" y="880" width="84" height="110.9" as="geometry" />
         </mxCell>
         <mxCell id="spW_KfxsJzQih1EyFW_R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1" source="spW_KfxsJzQih1EyFW_R-2" target="spW_KfxsJzQih1EyFW_R-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spW_KfxsJzQih1EyFW_R-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;fillColor=#d80073;strokeColor=#A50040;strokeWidth=2;" edge="1" parent="1" source="spW_KfxsJzQih1EyFW_R-1" target="spW_KfxsJzQih1EyFW_R-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
