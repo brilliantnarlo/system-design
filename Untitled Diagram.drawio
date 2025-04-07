@@ -454,7 +454,7 @@
         <mxCell id="SwqiQ7LRzpZv_2BvtTYR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SwqiQ7LRzpZv_2BvtTYR-12" target="SwqiQ7LRzpZv_2BvtTYR-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwqiQ7LRzpZv_2BvtTYR-12" value="Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SwqiQ7LRzpZv_2BvtTYR-12" value="Containers" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="599" width="200" height="251" as="geometry" />
         </mxCell>
         <mxCell id="SwqiQ7LRzpZv_2BvtTYR-17" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" vertex="1" parent="1">
