@@ -629,7 +629,7 @@
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;flowAnimation=1;" edge="1" parent="1" source="cao1bhAs30lAPZ2Q8IiR-15" target="cao1bhAs30lAPZ2Q8IiR-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cao1bhAs30lAPZ2Q8IiR-15" value="Conduct Draw" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="cao1bhAs30lAPZ2Q8IiR-15" value="UI button" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-1700" y="1720" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="cao1bhAs30lAPZ2Q8IiR-16" target="cao1bhAs30lAPZ2Q8IiR-19">
