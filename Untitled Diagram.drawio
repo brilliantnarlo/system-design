@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="26.2.9">
   <diagram name="Page-1" id="5MwJy7MfU5jN0rsetCYZ">
-    <mxGraphModel dx="4215" dy="3257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4306" dy="3305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dXeX0joB_W76gDld2E0W-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2160" y="-1620" width="3980" height="3820" as="geometry" />
+          <mxGeometry x="-2180" y="-1830" width="3980" height="4230" as="geometry" />
         </mxCell>
         <mxCell id="l7nKoDrUYivtg7SMq4b7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#000099;" parent="1" source="l7nKoDrUYivtg7SMq4b7-1" target="l7nKoDrUYivtg7SMq4b7-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -638,11 +638,14 @@
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-16" value="Check Method" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-1412" y="1720" width="100" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="cao1bhAs30lAPZ2Q8IiR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="cao1bhAs30lAPZ2Q8IiR-18" target="cao1bhAs30lAPZ2Q8IiR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-18" value="Bind JSON" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-1060" y="1720" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-19" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1240" y="1850" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1240" y="1850" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-20" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;flowAnimation=1;" edge="1" source="cao1bhAs30lAPZ2Q8IiR-19" parent="1" target="cao1bhAs30lAPZ2Q8IiR-18">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -653,6 +656,18 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-1200" y="1950" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cao1bhAs30lAPZ2Q8IiR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="cao1bhAs30lAPZ2Q8IiR-25" target="cao1bhAs30lAPZ2Q8IiR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cao1bhAs30lAPZ2Q8IiR-25" value="process" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="1850" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cao1bhAs30lAPZ2Q8IiR-28" value="DailyDraw &amp;gt; Threshold" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-735" y="1710" width="145" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cao1bhAs30lAPZ2Q8IiR-30" value="Partner Search String != &quot; &quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1710" width="150" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
