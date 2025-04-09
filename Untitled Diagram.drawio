@@ -652,9 +652,9 @@
             <mxPoint x="-1070" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cao1bhAs30lAPZ2Q8IiR-21" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="cao1bhAs30lAPZ2Q8IiR-19" parent="1">
+        <mxCell id="cao1bhAs30lAPZ2Q8IiR-21" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.611;entryY=0.268;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="cao1bhAs30lAPZ2Q8IiR-19" parent="1" target="cao1bhAs30lAPZ2Q8IiR-73">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-1200" y="1950" as="targetPoint" />
+            <mxPoint x="-1240" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="cao1bhAs30lAPZ2Q8IiR-25" target="cao1bhAs30lAPZ2Q8IiR-28">
@@ -791,6 +791,9 @@
         </mxCell>
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-72" value="AdminSelectWinnerForPartner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2060" y="1660" width="1800" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="cao1bhAs30lAPZ2Q8IiR-73" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="cao1bhAs30lAPZ2Q8IiR-72">
+          <mxGeometry x="798" y="340" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
