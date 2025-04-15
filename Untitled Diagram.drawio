@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="26.2.8">
   <diagram name="Page-1" id="5MwJy7MfU5jN0rsetCYZ">
-    <mxGraphModel dx="8794" dy="6011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4585" dy="3562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,16 +513,16 @@
           <mxGeometry x="2410" y="-860" width="1050" height="510" as="geometry" />
         </mxCell>
         <mxCell id="spW_KfxsJzQih1EyFW_R-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2765" y="-940" width="340" height="60" as="geometry" />
+          <mxGeometry x="2765" y="-654" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="spW_KfxsJzQih1EyFW_R-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2765" y="-842" width="340" height="60" as="geometry" />
+          <mxGeometry x="2765" y="-556" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="spW_KfxsJzQih1EyFW_R-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="2765" y="-440" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="spW_KfxsJzQih1EyFW_R-41" value="Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="2905" y="-1030" width="60" height="30" as="geometry" />
+        <mxCell id="spW_KfxsJzQih1EyFW_R-41" value="Chess Hub" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=38;" parent="1" vertex="1">
+          <mxGeometry x="2811" y="-744" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="spW_KfxsJzQih1EyFW_R-42" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="3050" y="-863.09" width="1050" height="510" as="geometry" />
