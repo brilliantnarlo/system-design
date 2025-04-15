@@ -518,7 +518,7 @@
         <mxCell id="spW_KfxsJzQih1EyFW_R-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2765" y="-556" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="spW_KfxsJzQih1EyFW_R-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="spW_KfxsJzQih1EyFW_R-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#990099);fontColor=#ffffff;strokeColor=light-dark(#001DBC,#990099);" parent="1" vertex="1">
           <mxGeometry x="2765" y="-440" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="spW_KfxsJzQih1EyFW_R-41" value="Chess Hub" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=38;" parent="1" vertex="1">
