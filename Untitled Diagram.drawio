@@ -243,7 +243,7 @@
           <mxGeometry x="3250" y="-1400" width="1200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zogO_9sz2Qxl51UqQ9J3-1" value="AdminOverview" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1920" y="1260" width="240" height="154" as="geometry" />
+          <mxGeometry x="-2070" y="1440" width="240" height="154" as="geometry" />
         </mxCell>
         <mxCell id="zogO_9sz2Qxl51UqQ9J3-2" value="+ StreamDrawHistoryAllCollection()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zogO_9sz2Qxl51UqQ9J3-1" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -267,7 +267,7 @@
           <mxGeometry y="128" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zogO_9sz2Qxl51UqQ9J3-9" value="AdminDrawListAPI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1600" y="1260" width="240" height="154" as="geometry" />
+          <mxGeometry x="-1762.5" y="1460" width="240" height="154" as="geometry" />
         </mxCell>
         <mxCell id="zogO_9sz2Qxl51UqQ9J3-10" value="+ StreamDailyDrawCount()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zogO_9sz2Qxl51UqQ9J3-9" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -291,7 +291,7 @@
           <mxGeometry y="128" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-1" value="AnnouncerDashboard" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1090" y="1270" width="240" height="120" as="geometry" />
+          <mxGeometry x="-1421" y="1494" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cao1bhAs30lAPZ2Q8IiR-2" value="+ StremAnnouncerDailyDraw()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cao1bhAs30lAPZ2Q8IiR-1" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
