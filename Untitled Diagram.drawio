@@ -486,9 +486,6 @@
         <mxCell id="OedQ7Vb5YeYqAPpWqnQ5-77" value="is store in Failed&amp;nbsp;&lt;div&gt;transaction?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-215" y="2650" width="175" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xeh3c7EnsuvKfWv9uVPQ-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="-250" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="X0qlzJWYbxlH0C1ETnXJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;flowAnimation=1;" parent="1" source="pbQb53wRpqbdlfqOJr1x-1" target="xeh3c7EnsuvKfWv9uVPQ-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1070" y="-170" as="targetPoint" />
