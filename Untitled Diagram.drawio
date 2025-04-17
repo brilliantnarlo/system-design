@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="26.2.13">
   <diagram name="Page-1" id="5MwJy7MfU5jN0rsetCYZ">
-    <mxGraphModel dx="7435" dy="4964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5371" dy="3870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,8 +377,28 @@
         <mxCell id="OedQ7Vb5YeYqAPpWqnQ5-55" value="Buck Loading of data on first load." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2408" y="930" width="578" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OedQ7Vb5YeYqAPpWqnQ5-56" value="Get request" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1370" y="2090" width="80" height="80" as="geometry" />
+        <mxCell id="OedQ7Vb5YeYqAPpWqnQ5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OedQ7Vb5YeYqAPpWqnQ5-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-860" y="2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OedQ7Vb5YeYqAPpWqnQ5-61" value="GET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;fontStyle=1" vertex="1" connectable="0" parent="OedQ7Vb5YeYqAPpWqnQ5-59">
+          <mxGeometry x="-0.0284" y="6" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OedQ7Vb5YeYqAPpWqnQ5-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="OedQ7Vb5YeYqAPpWqnQ5-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1360" y="2299.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OedQ7Vb5YeYqAPpWqnQ5-62" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;POST&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="OedQ7Vb5YeYqAPpWqnQ5-60">
+          <mxGeometry x="0.1406" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OedQ7Vb5YeYqAPpWqnQ5-57" value="/ussd_code/winliberia" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="2040" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
