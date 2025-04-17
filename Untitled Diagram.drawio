@@ -571,7 +571,7 @@
           <mxGeometry x="-870" y="1022" width="70" height="84" as="geometry" />
         </mxCell>
         <mxCell id="X0qlzJWYbxlH0C1ETnXJ-50" value="USSD Backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-870" y="970" width="60" height="30" as="geometry" />
+          <mxGeometry x="-865" y="1139" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0qlzJWYbxlH0C1ETnXJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;flowAnimation=1;" edge="1" parent="1" source="X0qlzJWYbxlH0C1ETnXJ-46" target="X0qlzJWYbxlH0C1ETnXJ-49">
           <mxGeometry relative="1" as="geometry" />
@@ -613,9 +613,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X0qlzJWYbxlH0C1ETnXJ-67" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000066;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
-          <mxGeometry x="-1030" y="459" width="84" height="110.9" as="geometry" />
+          <mxGeometry x="-872" y="459" width="84" height="110.9" as="geometry" />
         </mxCell>
         <mxCell id="X0qlzJWYbxlH0C1ETnXJ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.056;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;flowAnimation=1;" edge="1" parent="1" source="X0qlzJWYbxlH0C1ETnXJ-64" target="X0qlzJWYbxlH0C1ETnXJ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X0qlzJWYbxlH0C1ETnXJ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;strokeWidth=3;" edge="1" parent="1" source="X0qlzJWYbxlH0C1ETnXJ-49" target="X0qlzJWYbxlH0C1ETnXJ-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
