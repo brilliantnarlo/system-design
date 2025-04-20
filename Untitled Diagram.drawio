@@ -147,10 +147,10 @@
           <mxGeometry x="100" y="350" width="128.05" height="105" as="geometry" />
         </mxCell>
         <mxCell id="pbQb53wRpqbdlfqOJr1x-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000099;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="X0qlzJWYbxlH0C1ETnXJ-31" vertex="1">
-          <mxGeometry x="10" y="1140" width="78" height="78" as="geometry" />
+          <mxGeometry x="150.05" y="1030" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="pbQb53wRpqbdlfqOJr1x-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Users (USSD)&lt;/h1&gt;&lt;p&gt;User playing using the USSD.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="X0qlzJWYbxlH0C1ETnXJ-31" vertex="1">
-          <mxGeometry x="20" y="1030" width="180" height="80" as="geometry" />
+          <mxGeometry x="110" y="1120" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xeh3c7EnsuvKfWv9uVPQ-11" value="" style="group;dashed=1;dashPattern=8 8;strokeWidth=3;" parent="X0qlzJWYbxlH0C1ETnXJ-31" vertex="1" connectable="0">
           <mxGeometry x="797.82" y="377.99999999999994" width="128.55000000000007" height="354.1700000000001" as="geometry" />
