@@ -575,10 +575,16 @@
           <mxGeometry x="-910" y="1895" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-4rXEBkH3Z8PamIbqHV0-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Users&lt;/h1&gt;&lt;p&gt;Generate high level of post requests.&lt;/p&gt;&lt;p&gt;4 requests per person, and is on average one person play 10 time in a day, that&#39;s 40 requests from that person and on average we have about 5000 plays which will now we 200,000 requests a day if multiply by 7 it will be 1,400,000 requests a week and if multiply by 4 that&#39;s 5,600,00 requests a month.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-2030" y="1420" width="490" height="310" as="geometry" />
+          <mxGeometry x="-2030" y="1440" width="490" height="310" as="geometry" />
         </mxCell>
         <mxCell id="-4rXEBkH3Z8PamIbqHV0-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Announcer&lt;/h1&gt;&lt;p&gt;Generate high level of get requests.&lt;/p&gt;&lt;p&gt;One average 6 post requests. Announcers submit winners information and click a button to conduct draw. On average we have about 64 winners for the total announcer&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-2067" y="1800" width="490" height="240" as="geometry" />
+          <mxGeometry x="-2050" y="1757" width="410" height="273" as="geometry" />
+        </mxCell>
+        <mxCell id="-4rXEBkH3Z8PamIbqHV0-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Partner&lt;/h1&gt;&lt;p&gt;Generate high level of get requests.&lt;/p&gt;&lt;p&gt;One average 0 post requests. Most partners don&#39;t login to their dashboard.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-2064" y="2230" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-4rXEBkH3Z8PamIbqHV0-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Admin&lt;/h1&gt;&lt;p&gt;Generate high level of get requests.&lt;/p&gt;&lt;p&gt;One average 100 post requests a day.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-2064" y="2005" width="384" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
