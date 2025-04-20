@@ -574,6 +574,9 @@
         <mxCell id="-4rXEBkH3Z8PamIbqHV0-16" value="Basic" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=none;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-910" y="1895" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-4rXEBkH3Z8PamIbqHV0-17" value="Generate high level of post requests." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="1530" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
