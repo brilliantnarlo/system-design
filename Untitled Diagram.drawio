@@ -615,6 +615,9 @@
         <mxCell id="JfOz7Ezh5cNhWvpw6KRs-6" value="MTN &amp;nbsp;Momo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-920" y="1871" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JfOz7Ezh5cNhWvpw6KRs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JfOz7Ezh5cNhWvpw6KRs-7" target="JfOz7Ezh5cNhWvpw6KRs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JfOz7Ezh5cNhWvpw6KRs-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00188D;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
           <mxGeometry x="-925" y="1970" width="70" height="84" as="geometry" />
         </mxCell>
