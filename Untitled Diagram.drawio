@@ -606,16 +606,19 @@
         <mxCell id="JfOz7Ezh5cNhWvpw6KRs-4" value="USSD Backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-915" y="1648" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JfOz7Ezh5cNhWvpw6KRs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JfOz7Ezh5cNhWvpw6KRs-5" target="JfOz7Ezh5cNhWvpw6KRs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JfOz7Ezh5cNhWvpw6KRs-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00188D;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
           <mxGeometry x="-925" y="1754" width="70" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="JfOz7Ezh5cNhWvpw6KRs-6" value="SMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="JfOz7Ezh5cNhWvpw6KRs-6" value="MTN &amp;nbsp;Momo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-920" y="1871" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfOz7Ezh5cNhWvpw6KRs-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00188D;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
           <mxGeometry x="-925" y="1970" width="70" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="JfOz7Ezh5cNhWvpw6KRs-8" value="MTN momo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="JfOz7Ezh5cNhWvpw6KRs-8" value="SMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-920" y="2087" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfOz7Ezh5cNhWvpw6KRs-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000099;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
@@ -645,6 +648,9 @@
         </mxCell>
         <mxCell id="JfOz7Ezh5cNhWvpw6KRs-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" vertex="1" parent="1">
           <mxGeometry x="-1368" y="1640" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="JfOz7Ezh5cNhWvpw6KRs-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000066;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1857" width="84" height="110.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
