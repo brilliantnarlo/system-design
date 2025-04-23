@@ -737,7 +737,7 @@
           <mxGeometry x="379" y="2960" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cvn29skllIlaqDYl9LbG-11" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="122" y="3025" width="231.71" height="190" as="geometry" />
+          <mxGeometry x="128.29" y="3038" width="231.71" height="190" as="geometry" />
         </mxCell>
         <mxCell id="cvn29skllIlaqDYl9LbG-12" value="" style="group;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="670.0000000000001" y="3140" width="128.55000000000007" height="354.1700000000001" as="geometry" />
