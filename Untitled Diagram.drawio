@@ -712,7 +712,7 @@
         <mxCell id="mV0X4D39EaTgH3TS2iPO-74" value="WINLIBERIA NEXT UPDATE" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;rounded=1;fillColor=none;container=0;" parent="1" vertex="1">
           <mxGeometry x="-1528.75" y="1450" width="2127.5" height="1150" as="geometry" />
         </mxCell>
-        <mxCell id="cvn29skllIlaqDYl9LbG-1" value="CICD WORKFLOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=90;" vertex="1" parent="1">
+        <mxCell id="cvn29skllIlaqDYl9LbG-1" value="GENERAL CICD WORKFLOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=90;" vertex="1" parent="1">
           <mxGeometry x="-1731.5" y="3030" width="1200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cvn29skllIlaqDYl9LbG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;strokeWidth=4;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="cvn29skllIlaqDYl9LbG-2" target="cvn29skllIlaqDYl9LbG-3">
@@ -772,7 +772,7 @@
         <mxCell id="cvn29skllIlaqDYl9LbG-26" value="Push to repo." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1588.5" y="3180" width="171" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cvn29skllIlaqDYl9LbG-27" value="WINLIBERIA CICD WORKFLOW" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;rounded=1;fillColor=none;container=0;" vertex="1" parent="1">
+        <mxCell id="cvn29skllIlaqDYl9LbG-27" value="WINLIBERIA GENERAL CICD WORKFLOW" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;rounded=1;fillColor=none;container=0;" vertex="1" parent="1">
           <mxGeometry x="-1641" y="2850" width="2352.5" height="850" as="geometry" />
         </mxCell>
         <mxCell id="cvn29skllIlaqDYl9LbG-10" value="Host Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="cvn29skllIlaqDYl9LbG-27">
