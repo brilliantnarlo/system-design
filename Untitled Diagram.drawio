@@ -778,15 +778,6 @@
         <mxCell id="cvn29skllIlaqDYl9LbG-10" value="Host Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" parent="cvn29skllIlaqDYl9LbG-27" vertex="1">
           <mxGeometry x="1441" y="100" width="171" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RFAMoMfCC5uFJ-4-AF_q-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000099;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1867" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="RFAMoMfCC5uFJ-4-AF_q-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000099;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="900" y="2000" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="RFAMoMfCC5uFJ-4-AF_q-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1530" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
