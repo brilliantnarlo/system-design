@@ -796,6 +796,12 @@
         <mxCell id="3UyTAnNJPqbj-cCoxh0p-6" value="Payment Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1031" y="-1970" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3UyTAnNJPqbj-cCoxh0p-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00188D;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-2080" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3UyTAnNJPqbj-cCoxh0p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3UyTAnNJPqbj-cCoxh0p-1" target="3UyTAnNJPqbj-cCoxh0p-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
