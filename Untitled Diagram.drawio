@@ -802,8 +802,8 @@
         <mxCell id="3UyTAnNJPqbj-cCoxh0p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3UyTAnNJPqbj-cCoxh0p-1" target="3UyTAnNJPqbj-cCoxh0p-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UyTAnNJPqbj-cCoxh0p-9" value="Payment Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-686.5" y="-1970" width="60" height="30" as="geometry" />
+        <mxCell id="3UyTAnNJPqbj-cCoxh0p-9" value="Payment and SMPP Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-742.5" y="-1970" width="176.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3UyTAnNJPqbj-cCoxh0p-10" value="Orange USSD Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1386.5" y="-2260" width="176.5" height="30" as="geometry" />
