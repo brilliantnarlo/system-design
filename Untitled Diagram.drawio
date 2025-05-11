@@ -814,6 +814,9 @@
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-1" value="System Efficiency, Scalability, &amp;amp; Maintainability" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=90;" vertex="1" parent="1">
           <mxGeometry x="-5260" y="-1110" width="1200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;List Announcer Route&lt;/h1&gt;&lt;p&gt;Responsive for display all the announcer in the system with their information.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-5555" y="-875.09" width="615" height="165.09" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
