@@ -965,6 +965,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-65" value="MongoDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-4288" y="-698" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-66" value="USSD Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3947.5" y="-714" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-67" value="Frontend Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3470" y="-714" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-68" value="Web Sackend Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3527.5" y="-383.09" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-69" value="Cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3968.81" y="-137.99999999999997" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
