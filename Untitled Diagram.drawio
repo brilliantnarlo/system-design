@@ -817,8 +817,25 @@
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;List Announcer Route&lt;/h1&gt;&lt;p&gt;GET route responsive for display all the announcer in the system with their information.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-5555" y="-875.09" width="615" height="165.09" as="geometry" />
         </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JCnhqRq3zoo1CF0dDHr4-3" target="JCnhqRq3zoo1CF0dDHr4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5555" y="-580" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4680" y="-600" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="JCnhqRq3zoo1CF0dDHr4-5" target="JCnhqRq3zoo1CF0dDHr4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-7" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JCnhqRq3zoo1CF0dDHr4-6">
+          <mxGeometry x="-0.6236" y="-7" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-5" value="Is Visiable" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-5250" y="-540" width="150" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
