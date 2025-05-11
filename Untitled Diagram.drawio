@@ -817,6 +817,9 @@
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;List Announcer Route&lt;/h1&gt;&lt;p&gt;GET route responsive for display all the announcer in the system with their information.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-5555" y="-875.09" width="615" height="165.09" as="geometry" />
         </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5555" y="-580" width="185" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
