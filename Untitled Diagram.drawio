@@ -986,6 +986,9 @@
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-70" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000099;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
           <mxGeometry x="-3700" y="-593.9999999999999" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="JCnhqRq3zoo1CF0dDHr4-73" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;USSD | Payment | DB |SMPP&lt;/h1&gt;&lt;p&gt;POST route responsive for creating new partner in the system.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-6180" y="903.0000000000001" width="615" height="165.09" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
