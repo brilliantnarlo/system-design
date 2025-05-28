@@ -1058,6 +1058,15 @@
         <mxCell id="3bzBRC0V4Tt7CRo2isMi-17" value="DAUT: 4h/per announcer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-4962" y="1642" width="270" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3bzBRC0V4Tt7CRo2isMi-18" value="Total active hours a day: 6h" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-4630" y="1343" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bzBRC0V4Tt7CRo2isMi-19" value="Total active hours a day: 60h" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-4640" y="1640.9" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bzBRC0V4Tt7CRo2isMi-20" value="Total active hours a day: 12h" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-4610" y="1050" width="270" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
