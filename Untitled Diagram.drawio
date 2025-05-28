@@ -1009,17 +1009,11 @@
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5740" y="1110" width="185" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="JCnhqRq3zoo1CF0dDHr4-76" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000066;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
-          <mxGeometry x="-5190" y="1139.55" width="84" height="110.9" as="geometry" />
-        </mxCell>
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-80" value="Gate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-6207.5" y="1360" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-81" value="Admin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-5782.5" y="1058" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JCnhqRq3zoo1CF0dDHr4-82" value="Mongodb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-5283" y="1090" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JCnhqRq3zoo1CF0dDHr4-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JCnhqRq3zoo1CF0dDHr4-84" target="JCnhqRq3zoo1CF0dDHr4-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
