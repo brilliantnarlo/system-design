@@ -1033,7 +1033,7 @@
         <mxCell id="3bzBRC0V4Tt7CRo2isMi-4" value="Announcer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-5782.5" y="1645" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3bzBRC0V4Tt7CRo2isMi-9" value="Total Admin 9:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3bzBRC0V4Tt7CRo2isMi-9" value="Total Admin: 9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-5512.5" y="1050" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
