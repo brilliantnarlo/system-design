@@ -846,10 +846,20 @@
             <mxPoint x="-4920" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i8awUUm0a8a0oG1avbP--10" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="i8awUUm0a8a0oG1avbP--11" value="Send Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i8awUUm0a8a0oG1avbP--9">
+          <mxGeometry x="-0.0021" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i8awUUm0a8a0oG1avbP--10" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4920" y="80" as="sourcePoint" />
-            <mxPoint x="-5080" y="80" as="targetPoint" />
+            <mxPoint x="-4919" y="80" as="sourcePoint" />
+            <mxPoint x="-5079" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i8awUUm0a8a0oG1avbP--12" value="Confirm Request&amp;nbsp;&lt;div&gt;Completion&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i8awUUm0a8a0oG1avbP--10">
+          <mxGeometry x="0.1271" y="-2" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
