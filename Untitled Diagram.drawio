@@ -505,6 +505,9 @@
         <mxCell id="dCQr7MZKPg3L3Gu9Hw5c-29" value="5: User data store in database." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-4721" y="1520" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dCQr7MZKPg3L3Gu9Hw5c-30" value="USSD Servers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-5590.5" y="1070" width="171" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
