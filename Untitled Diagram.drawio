@@ -471,6 +471,9 @@
         <mxCell id="dCQr7MZKPg3L3Gu9Hw5c-64" value="Frontend Servers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3190.5" y="1810" width="171" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dCQr7MZKPg3L3Gu9Hw5c-65" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11870;points=[[0.5,1,0]];rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-2790" y="1800" width="37.44" height="56.18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
