@@ -58,9 +58,6 @@
         <mxCell id="X0qlzJWYbxlH0C1ETnXJ-49" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00188D;shape=mxgraph.azure.server_rack;" parent="1" vertex="1">
           <mxGeometry x="-5540" y="1256" width="70" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="X0qlzJWYbxlH0C1ETnXJ-50" value="USSD Backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-5461.5" y="2068.48" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="X0qlzJWYbxlH0C1ETnXJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;flowAnimation=1;" parent="1" source="X0qlzJWYbxlH0C1ETnXJ-46" target="X0qlzJWYbxlH0C1ETnXJ-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
