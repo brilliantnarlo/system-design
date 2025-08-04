@@ -385,7 +385,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Aiv8OhKlYdSuG4dDDiY-44" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1626" y="-120" width="60" height="63" as="geometry" />
+          <mxGeometry x="1390" y="-267.5" width="44" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Aiv8OhKlYdSuG4dDDiY-46" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" parent="1" vertex="1">
           <mxGeometry x="952" y="-334.5" width="24" height="50" as="geometry" />
@@ -545,6 +545,15 @@
         </mxCell>
         <mxCell id="dVy105JDXkoNCkbtIWFj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;flowAnimation=1;" edge="1" parent="1" source="dVy105JDXkoNCkbtIWFj-5" target="9Aiv8OhKlYdSuG4dDDiY-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dVy105JDXkoNCkbtIWFj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="9Aiv8OhKlYdSuG4dDDiY-72" target="9Aiv8OhKlYdSuG4dDDiY-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dVy105JDXkoNCkbtIWFj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;flowAnimation=1;" edge="1" parent="1" source="9Aiv8OhKlYdSuG4dDDiY-85" target="9Aiv8OhKlYdSuG4dDDiY-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dVy105JDXkoNCkbtIWFj-11" value="L1 Cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="-229" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
