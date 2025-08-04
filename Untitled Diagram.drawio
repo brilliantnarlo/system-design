@@ -562,7 +562,7 @@
           <mxGeometry x="1080" y="-440" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dVy105JDXkoNCkbtIWFj-19" value="Autherntication" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;arcSize=26;" vertex="1" parent="1">
-          <mxGeometry x="837" width="243" height="78" as="geometry">
+          <mxGeometry x="837" width="243" height="104" as="geometry">
             <mxRectangle x="827" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -572,12 +572,15 @@
         <mxCell id="dVy105JDXkoNCkbtIWFj-21" value="+ /api/v1/register: POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-19">
           <mxGeometry y="52" width="243" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="dVy105JDXkoNCkbtIWFj-27" value="+ /api/v1/logout: POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-19">
+          <mxGeometry y="78" width="243" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="dVy105JDXkoNCkbtIWFj-24" value="Admin Action" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;arcSize=26;" vertex="1" parent="1">
           <mxGeometry x="1119" width="243" height="78" as="geometry">
             <mxRectangle x="827" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dVy105JDXkoNCkbtIWFj-25" value="+ /api/v1/login: POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-24">
+        <mxCell id="dVy105JDXkoNCkbtIWFj-25" value="+ /api/v1/c: POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-24">
           <mxGeometry y="26" width="243" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dVy105JDXkoNCkbtIWFj-26" value="+ /api/v1/register: POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-24">
