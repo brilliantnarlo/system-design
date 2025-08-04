@@ -373,6 +373,9 @@
         <mxCell id="9Aiv8OhKlYdSuG4dDDiY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Aiv8OhKlYdSuG4dDDiY-14" target="9Aiv8OhKlYdSuG4dDDiY-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9Aiv8OhKlYdSuG4dDDiY-44" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-580" width="60" height="63" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
