@@ -456,7 +456,7 @@
           <mxGeometry x="1007" y="-562.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Aiv8OhKlYdSuG4dDDiY-81" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Communication Legend&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="827" y="-570" width="180" height="120" as="geometry" />
+          <mxGeometry x="820" y="-570" width="187" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9Aiv8OhKlYdSuG4dDDiY-82" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;flowAnimation=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -572,7 +572,7 @@
         <mxCell id="dVy105JDXkoNCkbtIWFj-21" value="+ /api/v1/register: POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-19">
           <mxGeometry y="52" width="243" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dVy105JDXkoNCkbtIWFj-22" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-19">
+        <mxCell id="dVy105JDXkoNCkbtIWFj-22" value="+ /api/v1/: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-19">
           <mxGeometry y="78" width="243" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dVy105JDXkoNCkbtIWFj-23" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-19">
