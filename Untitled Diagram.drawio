@@ -586,7 +586,7 @@
         <mxCell id="dVy105JDXkoNCkbtIWFj-26" value="+ /api/v1/update/post: POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-24">
           <mxGeometry y="52" width="243" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dVy105JDXkoNCkbtIWFj-28" value="+ /api/v1/delete/post: POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-24">
+        <mxCell id="dVy105JDXkoNCkbtIWFj-28" value="+ /api/v1/delete/post: DELETE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dVy105JDXkoNCkbtIWFj-24">
           <mxGeometry y="78" width="243" height="26" as="geometry" />
         </mxCell>
       </root>
