@@ -331,6 +331,9 @@
         <mxCell id="9Aiv8OhKlYdSuG4dDDiY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="9Aiv8OhKlYdSuG4dDDiY-14" target="9Aiv8OhKlYdSuG4dDDiY-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9Aiv8OhKlYdSuG4dDDiY-24" value="Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="-762" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
