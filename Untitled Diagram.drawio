@@ -316,6 +316,12 @@
         <mxCell id="9Aiv8OhKlYdSuG4dDDiY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Aiv8OhKlYdSuG4dDDiY-10" target="9Aiv8OhKlYdSuG4dDDiY-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9Aiv8OhKlYdSuG4dDDiY-17" value="Internet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-825" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Aiv8OhKlYdSuG4dDDiY-18" value="Reverse Proxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="834" y="-773.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
