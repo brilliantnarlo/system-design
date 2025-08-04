@@ -271,7 +271,7 @@
         <mxCell id="dCQr7MZKPg3L3Gu9Hw5c-71" value="2: Check cache for relivent data." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-3014.5" y="1780" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9Aiv8OhKlYdSuG4dDDiY-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#74E878;strokeColor=#82b366;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="9Aiv8OhKlYdSuG4dDDiY-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#74E878;strokeColor=#82b366;fillStyle=solid;strokeWidth=8;" vertex="1" parent="1">
           <mxGeometry x="-6570" y="-2220" width="4620" height="5960" as="geometry" />
         </mxCell>
       </root>
