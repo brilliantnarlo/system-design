@@ -14,7 +14,7 @@
           <mxGeometry height="48" width="50" x="450" y="330" as="geometry" />
         </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;USSD &amp;amp; SMSC Service&lt;/h1&gt;&lt;p&gt;Hosted on docker hub and has a docker compose file for startup.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="360" y="120" as="geometry" />
+          <mxGeometry height="120" width="180" x="360" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
