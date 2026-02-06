@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="120" width="120" x="390" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-2" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" value="" vertex="1">
-          <mxGeometry height="48" width="50" x="400" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-3" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" value="" vertex="1">
-          <mxGeometry height="48" width="50" x="450" y="330" as="geometry" />
-        </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;USSD &amp;amp; SMSC Service&amp;nbsp; v1&lt;/h1&gt;&lt;p&gt;Hosted on docker hub and has a docker compose file for startup.&lt;/p&gt;" vertex="1">
           <mxGeometry height="90" width="320" x="190" y="110" as="geometry" />
         </mxCell>
@@ -22,11 +13,20 @@
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Storing Configuration Keys" vertex="1">
           <mxGeometry height="30" width="110" x="145" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-9" edge="1" parent="1" source="v0K-Hu1E_WlHHeNXDnh9-6" style="endArrow=classic;html=1;rounded=0;entryX=-0.02;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" target="v0K-Hu1E_WlHHeNXDnh9-1" value="">
+        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-9" edge="1" parent="1" source="v0K-Hu1E_WlHHeNXDnh9-6" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" target="v0K-Hu1E_WlHHeNXDnh9-10" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="400" y="380" as="sourcePoint" />
-            <mxPoint x="450" y="330" as="targetPoint" />
+            <mxPoint x="387.5999999999999" y="324" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-10" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#7D8998;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" value="Server contents" vertex="1">
+          <mxGeometry height="130" width="130" x="380" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-3" parent="v0K-Hu1E_WlHHeNXDnh9-10" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" value="" vertex="1">
+          <mxGeometry height="48" width="50" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-2" parent="v0K-Hu1E_WlHHeNXDnh9-10" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" value="" vertex="1">
+          <mxGeometry height="48" width="50" x="10" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
