@@ -20,7 +20,7 @@
           <mxGeometry height="60" width="60" x="170" y="294" as="geometry" />
         </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Storing Configuration Keys" vertex="1">
-          <mxGeometry height="30" width="60" x="170" y="254" as="geometry" />
+          <mxGeometry height="30" width="110" x="145" y="250" as="geometry" />
         </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-9" edge="1" parent="1" source="v0K-Hu1E_WlHHeNXDnh9-6" style="endArrow=classic;html=1;rounded=0;entryX=-0.02;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" target="v0K-Hu1E_WlHHeNXDnh9-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
