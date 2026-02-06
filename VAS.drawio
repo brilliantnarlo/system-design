@@ -118,6 +118,15 @@
             <mxPoint x="780" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Error Database" vertex="1">
+          <mxGeometry height="30" width="110" x="960" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="v0K-Hu1E_WlHHeNXDnh9-50" edge="1" parent="1" source="v0K-Hu1E_WlHHeNXDnh9-14" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.994;exitY=0.367;exitDx=0;exitDy=0;flowAnimation=1;exitPerimeter=0;" target="v0K-Hu1E_WlHHeNXDnh9-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="900" y="323" as="sourcePoint" />
+            <mxPoint x="1000" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
