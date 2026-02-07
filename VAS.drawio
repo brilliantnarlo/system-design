@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#36393d;strokeWidth=1;glass=0;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="270" width="110" x="210" y="270" as="geometry" />
+        </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;USSD &amp;amp; SMSC Service&amp;nbsp; v1&lt;/h1&gt;&lt;div&gt;&amp;nbsp;- Handles USSD and SMS transactions.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Talks to external services.&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="320" x="350" y="120" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-12" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="190" y="300" as="geometry" />
+          <mxGeometry height="80" width="80" x="220" y="420" as="geometry" />
         </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-37" edge="1" parent="1" source="v0K-Hu1E_WlHHeNXDnh9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" target="v0K-Hu1E_WlHHeNXDnh9-38">
           <mxGeometry relative="1" as="geometry">
@@ -146,10 +149,25 @@
           <mxGeometry height="30" width="110" x="340" y="740" as="geometry" />
         </mxCell>
         <mxCell id="H2LwUiZz4ULWXPk5Wwke-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#36393d;strokeWidth=1;glass=0;fillStyle=solid;" value="" vertex="1">
-          <mxGeometry height="390" width="254" x="340" y="180" as="geometry" />
+          <mxGeometry height="390" width="254" x="-170" y="180" as="geometry" />
         </mxCell>
         <mxCell id="H2LwUiZz4ULWXPk5Wwke-32" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Provider Service&amp;nbsp; v1&lt;/h1&gt;&lt;div&gt;- Manages the client service&lt;/div&gt;&lt;div&gt;- Approve client service&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="320" x="-350" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="86" width="220" x="-153" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#B3B3B3;strokeColor=#000000;fontColor=#333333;fillStyle=hatch;" value="Provider" vertex="1">
+          <mxGeometry height="50" width="50" x="-143" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#EDEDED);fillColor=#B3B3B3;fillStyle=hatch;" value="Provider" vertex="1">
+          <mxGeometry height="50" width="50" x="-73" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;fillStyle=hatch;" value="Provider" vertex="1">
+          <mxGeometry height="50" width="50" x="-3" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-37" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58536;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="72" width="69" x="225.5" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
