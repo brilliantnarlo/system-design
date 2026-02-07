@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-12" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-50" y="274" as="geometry" />
+          <mxGeometry height="80" width="80" x="190" y="300" as="geometry" />
         </mxCell>
         <mxCell id="v0K-Hu1E_WlHHeNXDnh9-37" edge="1" parent="1" source="v0K-Hu1E_WlHHeNXDnh9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" target="v0K-Hu1E_WlHHeNXDnh9-38">
           <mxGeometry relative="1" as="geometry">
@@ -144,6 +144,12 @@
         </mxCell>
         <mxCell id="H2LwUiZz4ULWXPk5Wwke-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UBA" vertex="1">
           <mxGeometry height="30" width="110" x="340" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#36393d;strokeWidth=1;glass=0;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="390" width="260" x="-250" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-32" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Provider Service&amp;nbsp; v1&lt;/h1&gt;&lt;div&gt;- Manages the client service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="320" x="-350" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
