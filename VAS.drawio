@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
   <diagram name="Page-1" id="U-ipdowiLddq7aOk8Aw6">
-    <mxGraphModel dx="1892" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,9 +146,9 @@
           <mxGeometry height="30" width="110" x="340" y="740" as="geometry" />
         </mxCell>
         <mxCell id="H2LwUiZz4ULWXPk5Wwke-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#36393d;strokeWidth=1;glass=0;fillStyle=solid;" value="" vertex="1">
-          <mxGeometry height="390" width="260" x="-250" y="140" as="geometry" />
+          <mxGeometry height="390" width="254" x="340" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="H2LwUiZz4ULWXPk5Wwke-32" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Provider Service&amp;nbsp; v1&lt;/h1&gt;&lt;div&gt;- Manages the client service&lt;/div&gt;" vertex="1">
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-32" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Provider Service&amp;nbsp; v1&lt;/h1&gt;&lt;div&gt;- Manages the client service&lt;/div&gt;&lt;div&gt;- Approve client service&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="320" x="-350" y="30" as="geometry" />
         </mxCell>
       </root>
