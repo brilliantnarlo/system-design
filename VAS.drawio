@@ -143,7 +143,7 @@
           <mxGeometry height="290" width="254" x="-20" y="230" as="geometry" />
         </mxCell>
         <mxCell id="H2LwUiZz4ULWXPk5Wwke-32" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Provider Service&amp;nbsp; v1&lt;/h1&gt;&lt;div&gt;- Manages the client service&lt;/div&gt;&lt;div&gt;- Approve client service&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="320" x="-350" y="30" as="geometry" />
+          <mxGeometry height="90" width="320" x="-180" y="170" as="geometry" />
         </mxCell>
         <mxCell id="H2LwUiZz4ULWXPk5Wwke-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="86" width="220" x="-3" y="260" as="geometry" />
