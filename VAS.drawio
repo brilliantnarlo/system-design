@@ -137,6 +137,15 @@
           <mxGeometry height="30" width="110" x="340" y="710" as="geometry" />
         </mxCell>
         <mxCell id="H2LwUiZz4ULWXPk5Wwke-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pay Bills" vertex="1">
+          <mxGeometry height="30" width="110" x="332.5" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LEC" vertex="1">
+          <mxGeometry height="30" width="110" x="347.5" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Water" vertex="1">
+          <mxGeometry height="30" width="110" x="347.5" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="H2LwUiZz4ULWXPk5Wwke-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UBA" vertex="1">
           <mxGeometry height="30" width="110" x="340" y="740" as="geometry" />
         </mxCell>
       </root>
