@@ -286,6 +286,21 @@
             <mxPoint x="-110" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K9YU2Q8Y0WTN6-UsDK7G-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span data-ng-bind-html=&quot;listItem.model.DomainName | highlightFilter: $parameters.search.value&quot; class=&quot;&quot; style=&quot;box-sizing: border-box; font-weight: 700; vertical-align: top; font-size: 0.875rem; line-height: 1.57143em; padding-left: 1.71429em; background-image: none; position: relative; color: rgb(109, 110, 112); font-family: &amp;quot;Museo Sans&amp;quot;, Arial, Helvetica, sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;winaggregator-mtn.com&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="675" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="K9YU2Q8Y0WTN6-UsDK7G-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(74, 74, 74); font-family: &amp;quot;GB Museo Sans&amp;quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;winaggregator-client.com&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="-630.5" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="K9YU2Q8Y0WTN6-UsDK7G-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(74, 74, 74); font-family: &amp;quot;GB Museo Sans&amp;quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;winaggregator-client-it.com&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="-623" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="K9YU2Q8Y0WTN6-UsDK7G-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(74, 74, 74); font-family: &amp;quot;GB Museo Sans&amp;quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;winaggregator-provider.com&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="52" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="K9YU2Q8Y0WTN6-UsDK7G-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(74, 74, 74); font-family: &amp;quot;GB Museo Sans&amp;quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;winaggregator-provider.it.com&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="52" y="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
