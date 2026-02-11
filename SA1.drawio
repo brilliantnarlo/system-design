@@ -22,13 +22,13 @@
             <mxPoint x="450" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="pod 1" vertex="1">
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="ingest service" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="145" as="geometry" />
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="pod 2" vertex="1">
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="ingest service" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="235" as="geometry" />
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="pod 3" vertex="1">
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="ingest service" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="325" as="geometry" />
         </mxCell>
         <mxCell id="EyT6oF-ovBxys-f1xOxE-9" edge="1" parent="1" source="EyT6oF-ovBxys-f1xOxE-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EyT6oF-ovBxys-f1xOxE-8" value="">
