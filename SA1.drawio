@@ -73,8 +73,8 @@
         <mxCell id="EyT6oF-ovBxys-f1xOxE-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillStyle=hatch;" value="Woker" vertex="1">
           <mxGeometry height="60" width="60" x="800" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DB Cluster" vertex="1">
-          <mxGeometry height="30" width="60" x="650" y="500" as="geometry" />
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DB Cluster (Object Storage)" vertex="1">
+          <mxGeometry height="30" width="100" x="630" y="550" as="geometry" />
         </mxCell>
         <mxCell id="EyT6oF-ovBxys-f1xOxE-24" edge="1" parent="1" source="EyT6oF-ovBxys-f1xOxE-11" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" target="EyT6oF-ovBxys-f1xOxE-22" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
