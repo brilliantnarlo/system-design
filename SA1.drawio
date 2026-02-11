@@ -13,7 +13,7 @@
         <mxCell id="EyT6oF-ovBxys-f1xOxE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Satellite&lt;div&gt;transmitter&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fpga" vertex="1">
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fpga receiver" vertex="1">
           <mxGeometry height="60" width="120" x="275" y="230" as="geometry" />
         </mxCell>
         <mxCell id="EyT6oF-ovBxys-f1xOxE-3" edge="1" parent="1" source="EyT6oF-ovBxys-f1xOxE-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" target="EyT6oF-ovBxys-f1xOxE-2" value="">
