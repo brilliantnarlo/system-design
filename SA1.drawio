@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC6600;fillStyle=cross-hatch;" value="" vertex="1">
+          <mxGeometry height="340" width="160" x="500" y="90" as="geometry" />
+        </mxCell>
         <mxCell id="EyT6oF-ovBxys-f1xOxE-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" value="" vertex="1">
           <mxGeometry height="220" width="260" x="630" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="340" width="160" x="500" y="90" as="geometry" />
         </mxCell>
         <mxCell id="EyT6oF-ovBxys-f1xOxE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#990000;fillStyle=dashed;strokeColor=#990000;fontColor=#990000;labelBackgroundColor=default;labelBorderColor=none;" value="Satellite&lt;div&gt;transmitter&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="230" as="geometry" />
@@ -22,13 +22,13 @@
             <mxPoint x="360" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="" vertex="1">
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hachure;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#CC6600;" value="" vertex="1">
           <mxGeometry height="65" width="120" x="520" y="145" as="geometry" />
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="" vertex="1">
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hachure;strokeColor=none;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#CC6600;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="235" as="geometry" />
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hachure;sketch=1;curveFitting=1;jiggle=2;fillColor=#CC6600;fontColor=#333333;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="325" as="geometry" />
         </mxCell>
         <mxCell id="EyT6oF-ovBxys-f1xOxE-9" edge="1" parent="1" source="EyT6oF-ovBxys-f1xOxE-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" target="EyT6oF-ovBxys-f1xOxE-8" value="">
@@ -100,26 +100,14 @@
         <mxCell id="FLQxsfm0ZKUBVexxL3yo-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;strokeColor=none;fontColor=#999900;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Receiver Service&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li data-start=&quot;394&quot; data-end=&quot;428&quot;&gt;&lt;p data-start=&quot;397&quot; data-end=&quot;428&quot;&gt;Search for SYNC word (&lt;code data-start=&quot;419&quot; data-end=&quot;427&quot;&gt;0xABCD&lt;/code&gt;)&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;429&quot; data-end=&quot;450&quot;&gt;&lt;p data-start=&quot;432&quot; data-end=&quot;450&quot;&gt;Read header fields&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;451&quot; data-end=&quot;466&quot;&gt;&lt;p data-start=&quot;454&quot; data-end=&quot;466&quot;&gt;Read payload&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;467&quot; data-end=&quot;495&quot;&gt;&lt;p data-start=&quot;470&quot; data-end=&quot;495&quot;&gt;Compute CRC32 in hardware&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;496&quot; data-end=&quot;510&quot;&gt;&lt;p data-start=&quot;499&quot; data-end=&quot;510&quot;&gt;Compare CRC&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;511&quot; data-end=&quot;546&quot;&gt;&lt;p data-start=&quot;514&quot; data-end=&quot;546&quot;&gt;Assert &lt;code data-start=&quot;521&quot; data-end=&quot;535&quot;&gt;packet_valid&lt;/code&gt; if correct&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;ul data-start=&quot;962&quot; data-end=&quot;1021&quot;&gt;&lt;br&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="250" width="310" x="100" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="FLQxsfm0ZKUBVexxL3yo-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ingest Service" vertex="1">
-          <mxGeometry height="30" width="90" x="535" y="150" as="geometry" />
+        <mxCell id="FLQxsfm0ZKUBVexxL3yo-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="Ingest Service" vertex="1">
+          <mxGeometry height="30" width="90" x="535" y="162.5" as="geometry" />
         </mxCell>
-        <mxCell id="FLQxsfm0ZKUBVexxL3yo-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ingest Service" vertex="1">
-          <mxGeometry height="30" width="90" x="535" y="235" as="geometry" />
+        <mxCell id="FLQxsfm0ZKUBVexxL3yo-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="Ingest Service" vertex="1">
+          <mxGeometry height="30" width="90" x="535" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="FLQxsfm0ZKUBVexxL3yo-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ingest Service" vertex="1">
-          <mxGeometry height="30" width="90" x="535" y="325" as="geometry" />
-        </mxCell>
-        <mxCell id="FLQxsfm0ZKUBVexxL3yo-11" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Logos-2642/bxl-docker-1377.svg" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="595" y="385" as="geometry" />
-        </mxCell>
-        <mxCell id="FLQxsfm0ZKUBVexxL3yo-16" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Computer_and_Web-2849/Tile-1352.svg" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="562.5" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="FLQxsfm0ZKUBVexxL3yo-20" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Computer_and_Web-2849/Tile-1352.svg" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="565" y="350" as="geometry" />
-        </mxCell>
-        <mxCell id="FLQxsfm0ZKUBVexxL3yo-21" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Computer_and_Web-2849/Tile-1352.svg" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="565" y="175" as="geometry" />
+        <mxCell id="FLQxsfm0ZKUBVexxL3yo-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="Ingest Service" vertex="1">
+          <mxGeometry height="30" width="90" x="532.5" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
