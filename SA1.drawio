@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="ZCWTWStYYalgspHlslhJ">
-    <mxGraphModel dx="2339" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1569" dy="1510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
             <mxPoint x="360" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EyT6oF-ovBxys-f1xOxE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="ingest service" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="145" as="geometry" />
+        <mxCell id="EyT6oF-ovBxys-f1xOxE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="" vertex="1">
+          <mxGeometry height="65" width="120" x="520" y="145" as="geometry" />
         </mxCell>
         <mxCell id="EyT6oF-ovBxys-f1xOxE-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=cross-hatch;strokeColor=#b85450;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" value="ingest service" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="235" as="geometry" />
@@ -99,6 +99,12 @@
         </mxCell>
         <mxCell id="FLQxsfm0ZKUBVexxL3yo-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;strokeColor=none;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Receiver Service&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li data-start=&quot;394&quot; data-end=&quot;428&quot;&gt;&lt;p data-start=&quot;397&quot; data-end=&quot;428&quot;&gt;Search for SYNC word (&lt;code data-start=&quot;419&quot; data-end=&quot;427&quot;&gt;0xABCD&lt;/code&gt;)&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;429&quot; data-end=&quot;450&quot;&gt;&lt;p data-start=&quot;432&quot; data-end=&quot;450&quot;&gt;Read header fields&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;451&quot; data-end=&quot;466&quot;&gt;&lt;p data-start=&quot;454&quot; data-end=&quot;466&quot;&gt;Read payload&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;467&quot; data-end=&quot;495&quot;&gt;&lt;p data-start=&quot;470&quot; data-end=&quot;495&quot;&gt;Compute CRC32 in hardware&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;496&quot; data-end=&quot;510&quot;&gt;&lt;p data-start=&quot;499&quot; data-end=&quot;510&quot;&gt;Compare CRC&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;511&quot; data-end=&quot;546&quot;&gt;&lt;p data-start=&quot;514&quot; data-end=&quot;546&quot;&gt;Assert &lt;code data-start=&quot;521&quot; data-end=&quot;535&quot;&gt;packet_valid&lt;/code&gt; if correct&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;ul data-start=&quot;962&quot; data-end=&quot;1021&quot;&gt;&lt;br&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="250" width="310" x="100" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="FLQxsfm0ZKUBVexxL3yo-3" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" value="" vertex="1">
+          <mxGeometry height="28.8" width="30" x="565" y="176.2" as="geometry" />
+        </mxCell>
+        <mxCell id="FLQxsfm0ZKUBVexxL3yo-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ingest Service" vertex="1">
+          <mxGeometry height="30" width="90" x="535" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
