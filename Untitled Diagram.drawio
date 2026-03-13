@@ -11,10 +11,10 @@
           <mxGeometry height="60" width="120" x="-170" y="370" as="geometry" />
         </mxCell>
         <mxCell id="Pzi9h83JEXw1WwImcpKQ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CPU" vertex="1">
-          <mxGeometry height="30" width="60" x="150" y="200" as="geometry" />
+          <mxGeometry height="30" width="60" x="150" y="230" as="geometry" />
         </mxCell>
         <mxCell id="Pzi9h83JEXw1WwImcpKQ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Frimware" vertex="1">
-          <mxGeometry height="30" width="60" x="-140" y="310" as="geometry" />
+          <mxGeometry height="30" width="60" x="-140" y="330" as="geometry" />
         </mxCell>
         <mxCell id="x5TCgEKK2zKDhpma3JmC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Instruction Memory" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="370" as="geometry" />
