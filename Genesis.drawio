@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="670" width="450" x="970" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="820" width="380" x="10" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Pzi9h83JEXw1WwImcpKQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Program Counter" vertex="1">
