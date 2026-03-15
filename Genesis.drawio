@@ -217,7 +217,7 @@
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="System Bus" vertex="1">
           <mxGeometry height="30" width="60" x="450" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-56" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontStyle=1;points=[[0,0,0,0,0],[0,0.17,0,0,0],[0,0.25,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,0.75,0,0,0],[0,0.83,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" value="PC" vertex="1">
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-56" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontStyle=1;points=[[0,0,0,0,0],[0,0.17,0,0,0],[0,0.25,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,0.75,0,0,0],[0,0.83,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" value="Program Counter (PC)" vertex="1">
           <mxGeometry height="550" width="550" x="-530" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-57" edge="1" parent="1" source="RxKS_LTQTH3gO7wxO-yq-67" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.33;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="RxKS_LTQTH3gO7wxO-yq-56" value="">
