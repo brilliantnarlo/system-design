@@ -150,9 +150,7 @@
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-37" edge="1" parent="1" source="RxKS_LTQTH3gO7wxO-yq-8" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RxKS_LTQTH3gO7wxO-yq-29" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-240" y="540" />
-              <mxPoint x="-35" y="540" />
-              <mxPoint x="-35" y="600" />
+              <mxPoint x="-240" y="600" />
             </Array>
             <mxPoint x="110" y="640" as="sourcePoint" />
             <mxPoint x="-130" y="460" as="targetPoint" />
