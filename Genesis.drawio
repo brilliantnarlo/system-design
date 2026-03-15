@@ -70,12 +70,21 @@
           <mxGeometry height="120" width="180" x="110" y="100" as="geometry" />
         </mxCell>
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="RAM" vertex="1">
-          <mxGeometry height="60" width="120" x="-170" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="-410" y="110" as="geometry" />
         </mxCell>
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-10" edge="1" parent="1" source="Pzi9h83JEXw1WwImcpKQ-4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Pzi9h83JEXw1WwImcpKQ-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="50" y="430" as="sourcePoint" />
             <mxPoint x="100" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="SSD" vertex="1">
+          <mxGeometry height="60" width="120" x="-420" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-13" edge="1" parent="1" source="RxKS_LTQTH3gO7wxO-yq-11" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Pzi9h83JEXw1WwImcpKQ-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="400" as="sourcePoint" />
+            <mxPoint x="170" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
