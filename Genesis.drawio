@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="ssFyuGjPRfe8GWv_gbls">
-    <mxGraphModel dx="4305" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3166" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,23 +256,23 @@
             <mxPoint x="290" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="y" vertex="1">
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="y" vertex="1">
           <mxGeometry height="30" width="60" x="260" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CLK" vertex="1">
-          <mxGeometry height="30" width="60" x="-820" y="1400" as="geometry" />
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="CLK" vertex="1">
+          <mxGeometry height="30" width="60" x="-828" y="1400" as="geometry" />
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RST" vertex="1">
-          <mxGeometry height="30" width="60" x="-840" y="1480" as="geometry" />
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="RST" vertex="1">
+          <mxGeometry height="30" width="60" x="-827" y="1485" as="geometry" />
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC_EN" vertex="1">
-          <mxGeometry height="30" width="60" x="-850" y="1580" as="geometry" />
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="PC_EN" vertex="1">
+          <mxGeometry height="30" width="60" x="-816" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="JUMP" vertex="1">
-          <mxGeometry height="30" width="60" x="-860" y="1670" as="geometry" />
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="JUMP" vertex="1">
+          <mxGeometry height="30" width="60" x="-822" y="1672" as="geometry" />
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="JUMP_ADDR" vertex="1">
-          <mxGeometry height="30" width="100" x="-890" y="1770" as="geometry" />
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="JUMP_ADDR" vertex="1">
+          <mxGeometry height="30" width="183" x="-843" y="1763" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
