@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="910" width="380" x="10" y="210" as="geometry" />
+          <mxGeometry height="820" width="380" x="10" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Pzi9h83JEXw1WwImcpKQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Program Counter" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="270" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry height="60" width="120" x="-730" y="720" as="geometry" />
         </mxCell>
         <mxCell id="Pzi9h83JEXw1WwImcpKQ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CPU" vertex="1">
-          <mxGeometry height="40" width="60" x="50" y="230" as="geometry" />
+          <mxGeometry height="40" width="60" x="30" y="290" as="geometry" />
         </mxCell>
         <mxCell id="x5TCgEKK2zKDhpma3JmC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="L1 Instruction Cache" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="370" as="geometry" />
