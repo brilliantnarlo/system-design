@@ -53,8 +53,8 @@
             <mxPoint x="155" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=31;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Genesis-1 CPU&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="175" width="330" x="-580" y="245" as="geometry" />
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=31;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Genesis-1 x64-bit CPU&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="175" width="540" x="-580" y="245" as="geometry" />
         </mxCell>
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="RAM" vertex="1">
           <mxGeometry height="60" width="120" x="-300" y="720" as="geometry" />
@@ -256,7 +256,7 @@
             <mxPoint x="290" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="y" vertex="1">
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="y [63:0]" vertex="1">
           <mxGeometry height="30" width="60" x="260" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="CLK" vertex="1">
@@ -271,7 +271,7 @@
         <mxCell id="RxKS_LTQTH3gO7wxO-yq-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="JUMP" vertex="1">
           <mxGeometry height="30" width="60" x="-822" y="1672" as="geometry" />
         </mxCell>
-        <mxCell id="RxKS_LTQTH3gO7wxO-yq-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="JUMP_ADDR" vertex="1">
+        <mxCell id="RxKS_LTQTH3gO7wxO-yq-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="JUMP_ADDR [63:0]" vertex="1">
           <mxGeometry height="30" width="183" x="-843" y="1763" as="geometry" />
         </mxCell>
       </root>
