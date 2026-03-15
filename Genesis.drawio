@@ -16,7 +16,7 @@
         <mxCell id="Pzi9h83JEXw1WwImcpKQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="Boot ROM&amp;nbsp;(contains BIOS/UEFI firmware)" vertex="1">
           <mxGeometry height="60" width="120" x="-730" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="Pzi9h83JEXw1WwImcpKQ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CPU" vertex="1">
+        <mxCell id="Pzi9h83JEXw1WwImcpKQ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;fontStyle=1" value="CPU" vertex="1">
           <mxGeometry height="40" width="60" x="30" y="290" as="geometry" />
         </mxCell>
         <mxCell id="x5TCgEKK2zKDhpma3JmC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="L1 Instruction Cache" vertex="1">
