@@ -415,7 +415,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=34;fontStyle=1" value="Inside of a Program Counter (PC)" vertex="1">
-          <mxGeometry height="30" width="330" x="153" y="2200" as="geometry" />
+          <mxGeometry height="30" width="330" x="88" y="2240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
