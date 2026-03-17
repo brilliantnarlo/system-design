@@ -289,12 +289,6 @@
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Branch Taken" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="2430" as="geometry" />
         </mxCell>
-        <mxCell id="UAkMV4ezVIvF6jj-QzM3-5" edge="1" parent="1" source="UAkMV4ezVIvF6jj-QzM3-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" target="UAkMV4ezVIvF6jj-QzM3-4" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="213" y="2170" as="sourcePoint" />
-            <mxPoint x="263" y="2120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Flush" vertex="1">
           <mxGeometry height="60" width="120" x="-92" y="2580" as="geometry" />
         </mxCell>
@@ -305,34 +299,16 @@
           <mxGeometry height="60" width="120" x="-97" y="2880" as="geometry" />
         </mxCell>
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vector Address" vertex="1">
-          <mxGeometry height="60" width="120" x="203" y="2810" as="geometry" />
-        </mxCell>
-        <mxCell id="UAkMV4ezVIvF6jj-QzM3-10" edge="1" parent="1" source="UAkMV4ezVIvF6jj-QzM3-7" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" target="UAkMV4ezVIvF6jj-QzM3-9" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="293" y="2600" as="sourcePoint" />
-            <mxPoint x="343" y="2550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UAkMV4ezVIvF6jj-QzM3-11" edge="1" parent="1" source="UAkMV4ezVIvF6jj-QzM3-8" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;flowAnimation=1;" target="UAkMV4ezVIvF6jj-QzM3-9" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="293" y="2600" as="sourcePoint" />
-            <mxPoint x="343" y="2550" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="60" width="120" x="450" y="2830" as="geometry" />
         </mxCell>
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jump" vertex="1">
           <mxGeometry height="60" width="120" x="-97" y="3030" as="geometry" />
         </mxCell>
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jump Address" vertex="1">
-          <mxGeometry height="60" width="120" x="203" y="3030" as="geometry" />
-        </mxCell>
-        <mxCell id="UAkMV4ezVIvF6jj-QzM3-14" edge="1" parent="1" source="UAkMV4ezVIvF6jj-QzM3-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" target="UAkMV4ezVIvF6jj-QzM3-13" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="293" y="2710" as="sourcePoint" />
-            <mxPoint x="343" y="2660" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="60" width="120" x="483" y="3050" as="geometry" />
         </mxCell>
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Flush Target" vertex="1">
-          <mxGeometry height="60" width="120" x="193" y="2580" as="geometry" />
+          <mxGeometry height="60" width="120" x="350" y="2580" as="geometry" />
         </mxCell>
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pc_next + COUNT" vertex="1">
           <mxGeometry height="60" width="120" x="-97" y="3190" as="geometry" />
@@ -406,12 +382,6 @@
             </Array>
             <mxPoint x="-102" y="2570" as="sourcePoint" />
             <mxPoint x="-102" y="2720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UAkMV4ezVIvF6jj-QzM3-27" edge="1" parent="1" source="UAkMV4ezVIvF6jj-QzM3-6" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" target="UAkMV4ezVIvF6jj-QzM3-15" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="513" y="2660" as="sourcePoint" />
-            <mxPoint x="163" y="2650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UAkMV4ezVIvF6jj-QzM3-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=34;fontStyle=1" value="Inside of a Program Counter (PC)" vertex="1">
