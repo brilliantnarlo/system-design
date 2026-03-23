@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.3">
   <diagram name="Page-1" id="ssFyuGjPRfe8GWv_gbls">
-    <mxGraphModel dx="2453" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3166" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,7 +394,16 @@
           <mxGeometry height="60" width="120" x="-485" y="2320" as="geometry" />
         </mxCell>
         <mxCell id="VIWnmb6jt3DJ296W7gV_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PC-relative output" vertex="1">
-          <mxGeometry height="60" width="120" x="-485" y="2420" as="geometry" />
+          <mxGeometry height="60" width="120" x="-97" y="3340" as="geometry" />
+        </mxCell>
+        <mxCell id="X3GR1LDfU7_UKWdK9fGS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Multiple redirect source arbitration" vertex="1">
+          <mxGeometry height="60" width="120" x="-503" y="3120" as="geometry" />
+        </mxCell>
+        <mxCell id="X3GR1LDfU7_UKWdK9fGS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dynamic reset vector handling" vertex="1">
+          <mxGeometry height="60" width="120" x="-410" y="3270" as="geometry" />
+        </mxCell>
+        <mxCell id="X3GR1LDfU7_UKWdK9fGS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fetch valid signalling" vertex="1">
+          <mxGeometry height="60" width="120" x="-623" y="3290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
